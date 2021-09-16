@@ -1,0 +1,2176 @@
+/* screen - d-33-1-instructor-portal-tor-commission-instructor */
+
+.d-33-1-instructor-portal-tor-commission-instructor {
+  align-items: center;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  height: 2411px;
+  width: 1920px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .x4 {
+  align-items: center;
+  background-color: var(--shark);
+  display: flex;
+  height: 90px;
+  min-width: 1920px;
+  padding: 0 287px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .noschoolslifelogo {
+  align-self: flex-start;
+  height: 85px;
+  object-fit: cover;
+  width: 228px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 90px;
+  margin-top: 1.0px;
+  min-height: 27px;
+  min-width: 38px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 98px;
+  margin-top: 1.0px;
+  min-height: 27px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1431 {
+  background-image: url(../img/icon-ionic-ios-search@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-bottom: 1.65px;
+  margin-left: 549px;
+  width: 18px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1432 {
+  background-image: url(../img/path-171@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-bottom: 1.0px;
+  margin-left: 70px;
+  width: 19px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-306 {
+  display: flex;
+  height: 55px;
+  margin-left: 85px;
+  margin-top: 1.0px;
+  width: 55px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-229 {
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  overflow: hidden;
+  width: 55px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-228 {
+  align-items: flex-end;
+  background-color: var(--eerie-black);
+  display: flex;
+  height: 56.071746826171875px;
+  min-width: 56.071746826171875px;
+  padding: 0 9.1px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-227 {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 38px;
+  padding: 0 0.0px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group1 {
+  height: 44px;
+  position: relative;
+  width: 38px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-42 {
+  height: 10px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 8px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-43 {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 38px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-44 {
+  height: 10px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-45 {
+  height: 11px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-3 {
+  height: 16px;
+  left: 11px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-46 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-224 {
+  height: 3px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-77 {
+  height: 9px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-225 {
+  background-image: url(../img/path-78-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-79 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 4px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-80 {
+  height: 16px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 1685px;
+  margin-left: 10.0px;
+  margin-top: 50px;
+  min-width: 1310px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .component-13-1 {
+  display: flex;
+  height: 600px;
+  width: 271px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .mask-group-27 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 271px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1289 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 271.087890625px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group2 {
+  height: 600px;
+  position: relative;
+  width: 271px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-320 {
+  background-color: #2f313e;
+  height: 600px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .label {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 269px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1281 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 61px;
+  min-height: 207px;
+  position: absolute;
+  top: 25px;
+  width: 152px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1280 {
+  display: flex;
+  height: 152px;
+  overflow: hidden;
+  width: 152px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1279 {
+  align-items: flex-end;
+  background-color: var(--eerie-black);
+  display: flex;
+  height: 155.3306884765625px;
+  min-width: 155.3306884765625px;
+  padding: 0 25.1px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1278 {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 104px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group1-1 {
+  height: 122px;
+  position: relative;
+  width: 104px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1434 {
+  height: 28px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 94px;
+  width: 21px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1435 {
+  height: 73px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 104px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1436 {
+  height: 27px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 4px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1437 {
+  height: 29px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 83px;
+  width: 7px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-4 {
+  height: 45px;
+  left: 30px;
+  position: absolute;
+  top: 28px;
+  width: 44px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1438 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1275 {
+  height: 8px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 29px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1469 {
+  height: 26px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1276 {
+  background-image: url(../img/path-1470@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 7px;
+  position: absolute;
+  top: 21px;
+  width: 14px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1471 {
+  height: 6px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 11px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1472 {
+  height: 45px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1288 {
+  display: flex;
+  height: 38px;
+  margin-right: 2.0px;
+  margin-top: 16px;
+  width: 113px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .label-1 {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: 28px;
+  font-weight: 600;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .line-56 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 271px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .label-2 {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 339px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .label-3 {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 409px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1699 {
+  align-items: flex-end;
+  background-color: var(--indigo);
+  display: flex;
+  height: 70px;
+  left: 1px;
+  min-width: 270px;
+  padding: 18.6px 51px;
+  position: absolute;
+  top: 460px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .label-4 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 32px;
+  min-width: 90px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .label-5 {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 549px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 81px;
+  min-height: 1685px;
+  width: 958px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1327 {
+  display: flex;
+  height: 42px;
+  width: 244px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-3-1 {
+  flex: 1;
+  letter-spacing: 0.30px;
+  line-height: 30px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  white-space: nowrap;
+  width: 244px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1939 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 72px;
+  margin-right: 68.93px;
+  margin-top: 50px;
+  min-width: 647px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1912 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 72px;
+  width: 140px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1911 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  margin-left: 2.0px;
+  min-width: 142px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1910 {
+  align-items: flex-end;
+  background-image: url(../img/path-1484-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 28px;
+  margin-bottom: 0.64px;
+  min-width: 33px;
+  padding: 2.6px 2.6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group {
+  align-items: center;
+  background-image: url(../img/path-1485-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 13px;
+  justify-content: flex-end;
+  min-width: 23px;
+  padding: 2.6px 3.6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1487 {
+  height: 2px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1486 {
+  align-self: flex-start;
+  height: 8px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1488 {
+  height: 2px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group1-2 {
+  align-self: flex-end;
+  height: 35px;
+  margin-bottom: -2px;
+  margin-left: 19px;
+  position: relative;
+  width: 90px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .price {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-height: 30px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1913 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 151px;
+  min-height: 72px;
+  width: 104px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1911-1 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  min-width: 106px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1914 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2.31px;
+  min-height: 28px;
+  width: 26px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1494 {
+  height: 14px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 13px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1493 {
+  height: 12px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 26px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-6 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2px;
+  margin-left: 14px;
+  min-height: 35px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-5 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.61px;
+  margin-top: 11px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1915 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 151px;
+  min-height: 72px;
+  width: 102px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1911-2 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 103px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .icon-ionic-ios-eye {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  margin-top: 1.0px;
+  min-width: 28px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/path-1163-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  margin-left: -1px;
+  margin-top: -1.0px;
+  min-width: 30px;
+  padding: 6.0px 11.1px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1164 {
+  height: 8px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-8 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2px;
+  margin-left: 13px;
+  min-height: 35px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-7 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 0.07px;
+  margin-top: 11px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1921 {
+  align-items: flex-end;
+  background-color: #2f313e;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  min-height: 238px;
+  padding: 46px 182.0px;
+  width: 948px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1922 {
+  align-items: center;
+  display: flex;
+  margin-top: 3px;
+  min-width: 555px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1943 {
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 2px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 87px;
+  padding: 4px 12.6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number-2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 46px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1528 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  justify-content: flex-end;
+  margin-bottom: 0.93px;
+  margin-left: 11px;
+  min-width: 4px;
+  padding: 1.2px 0;
+  transform: rotate(-90deg);
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-117 {
+  height: 6px;
+  object-fit: cover;
+  transform: rotate(90deg);
+  width: 12px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1548 {
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 2px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 10px;
+  min-width: 81px;
+  padding: 4px 13.6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-9 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1528-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  justify-content: flex-end;
+  margin-bottom: 0.93px;
+  margin-left: 13px;
+  min-width: 4px;
+  padding: 1.2px 0;
+  transform: rotate(-90deg);
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-10 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-height: 30px;
+  min-width: 367px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1941 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10.81px;
+  margin-top: 20px;
+  min-width: 532px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1916 {
+  align-items: flex-end;
+  display: flex;
+  height: 33px;
+  min-width: 203px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .icon-ionic-ios-eye-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 18px;
+  margin-top: 1.0px;
+  min-width: 28px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-11 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 16px;
+  min-height: 30px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2px;
+  margin-left: 12px;
+  min-height: 35px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1918 {
+  align-items: flex-end;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  margin-left: 68px;
+  min-width: 263px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1920 {
+  align-items: flex-end;
+  align-self: flex-start;
+  background-image: url(../img/path-1484-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 28px;
+  margin-top: 0;
+  min-width: 33px;
+  padding: 2.6px 2.6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-12 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 12px;
+  min-height: 30px;
+  min-width: 70px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd1500 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2px;
+  margin-left: 22px;
+  min-height: 35px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-13 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 24.0px;
+  margin-top: 20px;
+  min-height: 30px;
+  min-width: 360px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-top: 71px;
+  min-width: 950px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1923 {
+  display: flex;
+  height: 42px;
+  width: 214px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-24 {
+  flex: 1;
+  letter-spacing: 0.30px;
+  line-height: 30px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  white-space: nowrap;
+  width: 214px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1948 {
+  align-items: center;
+  display: flex;
+  height: 26px;
+  margin-bottom: 0;
+  margin-left: 386px;
+  min-width: 141px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-2 {
+  height: 14px;
+  margin-top: 2.0px;
+  position: relative;
+  width: 17px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-362 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .icon-ionic-ios-checkmark {
+  height: 12px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-47 {
+  background-color: var(--emerald);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  margin-left: 15px;
+  margin-top: 1.0px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-47 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-bottom: -2px;
+  margin-left: 11px;
+  min-height: 28px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1949 {
+  align-items: center;
+  display: flex;
+  height: 26px;
+  margin-bottom: 0;
+  margin-left: 68px;
+  min-width: 141px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-363 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-47-1 {
+  background-color: var(--indigo);
+  border-radius: 9.5px;
+  height: 19px;
+  margin-left: 15px;
+  margin-top: 1.0px;
+  width: 19px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-48 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-bottom: -2px;
+  margin-left: 12px;
+  min-height: 28px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group3 {
+  height: 513px;
+  margin-left: 2px;
+  margin-top: 31px;
+  position: relative;
+  width: 956px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1925 {
+  align-items: flex-start;
+  display: flex;
+  height: 513px;
+  left: 0;
+  min-width: 947px;
+  position: absolute;
+  top: 0;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 479px;
+  width: 53px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-17 {
+  letter-spacing: 0;
+  line-height: 19px;
+  min-height: 28px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-16 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 57px;
+  min-height: 28px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-15 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-right: 1px;
+  margin-top: 63px;
+  min-height: 28px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-14 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-right: 1px;
+  margin-top: 64px;
+  min-height: 28px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number-4 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 64px;
+  min-height: 28px;
+  min-width: 36px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number-5 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 63px;
+  min-height: 28px;
+  min-width: 13px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-col-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2.0px;
+  margin-left: 18px;
+  min-height: 507px;
+  width: 877px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-5 {
+  align-items: flex-start;
+  background-image: url(../img/path-1495@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 466px;
+  justify-content: flex-end;
+  min-width: 877px;
+  padding: 0 0.2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .line-66 {
+  height: 463px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .line-6 {
+  height: 463px;
+  margin-left: 174px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .line-70 {
+  height: 463px;
+  margin-left: 171px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  margin-left: 0.5px;
+  margin-top: 13px;
+  min-width: 876px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-18 {
+  letter-spacing: 0;
+  line-height: 19px;
+  min-height: 28px;
+  min-width: 35px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 129px;
+  min-height: 28px;
+  min-width: 39px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-20 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 130px;
+  min-height: 28px;
+  min-width: 39px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-23 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 129px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group1-3 {
+  height: 355px;
+  left: 61px;
+  position: absolute;
+  top: 90px;
+  width: 895px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-48 {
+  background-color: var(--emerald);
+  border-radius: 10px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1496 {
+  height: 341px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 880px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-49 {
+  background-color: var(--emerald);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  left: 175px;
+  position: absolute;
+  top: 65px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-50 {
+  background-color: var(--emerald);
+  border-radius: 9.5px/10px;
+  height: 20px;
+  left: 351px;
+  position: absolute;
+  top: 160px;
+  width: 19px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-51 {
+  background-color: var(--emerald);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  left: 526px;
+  position: absolute;
+  top: 223px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-52 {
+  background-color: var(--emerald);
+  border-radius: 9.5px/10px;
+  height: 20px;
+  left: 702px;
+  position: absolute;
+  top: 277px;
+  width: 19px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-53 {
+  background-color: var(--emerald);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  left: 875px;
+  position: absolute;
+  top: 336px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group2-1 {
+  height: 222px;
+  left: 61px;
+  position: absolute;
+  top: 245px;
+  width: 895px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-54 {
+  background-color: var(--indigo);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-55 {
+  background-color: var(--indigo);
+  border-radius: 10px;
+  height: 20px;
+  left: 176px;
+  position: absolute;
+  top: 56px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-56 {
+  background-color: var(--indigo);
+  border-radius: 9.5px;
+  height: 19px;
+  left: 351px;
+  position: absolute;
+  top: 105px;
+  width: 19px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-57 {
+  background-color: var(--indigo);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  left: 526px;
+  position: absolute;
+  top: 155px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-58 {
+  background-color: var(--indigo);
+  border-radius: 9.5px/10px;
+  height: 20px;
+  left: 703px;
+  position: absolute;
+  top: 180px;
+  width: 19px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .ellipse-59 {
+  background-color: var(--indigo);
+  border-radius: 10px;
+  height: 20px;
+  left: 875px;
+  position: absolute;
+  top: 202px;
+  width: 20px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-1497 {
+  height: 207px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 876px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1942 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  margin-top: 74px;
+  min-height: 380px;
+  width: 948px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-32 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 22px;
+  min-width: 58px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1929 {
+  align-items: flex-end;
+  display: flex;
+  height: 349px;
+  margin-right: 2px;
+  margin-top: 9px;
+  min-width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group7 {
+  height: 401px;
+  margin-bottom: -52px;
+  position: relative;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-364 {
+  background-color: #313131;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-25 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-26 {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-27 {
+  left: 480px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-28 {
+  left: 843px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-29 {
+  left: 656px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-6 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .name {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number {
+  left: 480px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd100 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .address {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number-1 {
+  left: 656px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group6 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group-7 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .name-1 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236-1 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd100-1 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .address-1 {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group1-4 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .name-2 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236-2 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd100-2 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .address-2 {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group2-2 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .name-3 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236-3 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd100-3 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .address-3 {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group3-1 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 156px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .name-4 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236-4 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd100-4 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .address-4 {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group4 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .name-5 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236-5 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .usd100-5 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .address-5 {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .overlap-group5 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 260px;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-30 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .rectangle-236-6 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-31 {
+  left: 844px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .phone {
+  left: 197px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1935 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 544px;
+  min-height: 12px;
+  position: absolute;
+  top: 13px;
+  width: 6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .polygon-3 {
+  height: 5px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .polygon-4 {
+  height: 5px;
+  margin-top: 2px;
+  object-fit: cover;
+  width: 6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1936 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 720px;
+  min-height: 12px;
+  position: absolute;
+  top: 13px;
+  width: 6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1937 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 54px;
+  min-height: 12px;
+  position: absolute;
+  top: 13px;
+  width: 6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1938 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 907px;
+  min-height: 12px;
+  position: absolute;
+  top: 13px;
+  width: 6px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1867 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.82px;
+  margin-top: 44px;
+  min-height: 78px;
+  width: 225px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-row-3 {
+  align-items: center;
+  display: flex;
+  min-width: 225px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1521 {
+  display: flex;
+  height: 8px;
+  justify-content: flex-end;
+  margin-top: 0.07px;
+  transform: rotate(180deg);
+  width: 10px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1517 {
+  display: flex;
+  margin-right: 2.4px;
+  transform: rotate(180deg);
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-117-1 {
+  flex: 1;
+  margin-bottom: -1.4px;
+  margin-left: -1px;
+  margin-right: -1.4px;
+  margin-top: -1.4px;
+  object-fit: cover;
+  width: 6.05810546875px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1518 {
+  display: flex;
+  transform: rotate(180deg);
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1520 {
+  display: flex;
+  height: 8px;
+  margin-left: 30px;
+  margin-top: 0.07px;
+  width: 4px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-44 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 24px;
+  margin-top: 3.0px;
+  min-height: 22px;
+  min-width: 16px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1515 {
+  align-items: flex-end;
+  background-color: #313131;
+  border: 1px solid var(--white);
+  border-radius: 2px;
+  display: flex;
+  height: 37px;
+  margin-left: 10px;
+  min-width: 37px;
+  padding: 7px 14px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .number-6 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 22px;
+  min-width: 8px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-45 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 12px;
+  margin-top: 3.0px;
+  min-height: 22px;
+  min-width: 16px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1516 {
+  display: flex;
+  height: 8px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  transform: rotate(180deg);
+  width: 4px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .path-117-2 {
+  flex: 1;
+  margin-bottom: -1.4px;
+  margin-left: -1px;
+  margin-right: -1.4px;
+  margin-top: -1.4px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 6.0582275390625px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-1519 {
+  display: flex;
+  height: 8px;
+  justify-content: flex-end;
+  margin-left: 30px;
+  margin-top: 0.07px;
+  width: 10px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-46 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 2.18px;
+  margin-top: 21px;
+  min-height: 22px;
+  min-width: 61px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .component-9-1 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  margin-top: 89px;
+  min-height: 497px;
+  padding: 50px 310px;
+  width: 1920px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .flex-row-4 {
+  align-items: center;
+  display: flex;
+  height: 241px;
+  margin-top: 20px;
+  min-width: 1067px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 216px;
+  width: 72px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .line-1 {
+  height: 3px;
+  margin-left: -1.5px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-634 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 157px;
+  width: 74px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-34 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .blog {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-36 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-35 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-37 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 41.0px;
+  margin-left: 254px;
+  min-height: 150px;
+  width: 90px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-635 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 91px;
+  width: 92px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-40 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-41 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-42 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 41.0px;
+  margin-left: 230px;
+  min-height: 150px;
+  width: 85px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .line-20 {
+  height: 3px;
+  margin-left: -0.5px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 82px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .group-636 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 91px;
+  width: 87px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .facebook {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .instagram {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .you-tube {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 6px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .noschoolslifelogo-1 {
+  align-self: flex-start;
+  height: 128px;
+  margin-left: 208px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.d-33-1-instructor-portal-tor-commission-instructor .text-43 {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-pingfangtc-thin);
+  font-size: var(--font-size-s);
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 2.0px;
+  margin-top: 117px;
+  min-height: 19px;
+  min-width: 258px;
+  white-space: nowrap;
+}
